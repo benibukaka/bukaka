@@ -1,4 +1,4 @@
-# 📊 Beni Ndudi Bukaka | Quantitative Economics & Data Analytics
+# 📊 Beni Bukaka Ndudi | Quantitative Economics & Data Analytics
 
 > **Analyste de données & Modélisateur Quantitatif**  
 > Spécialisé en économétrie appliquée, évaluation du risque de crédit (Credit Risk Scoring) et modélisation financière.
