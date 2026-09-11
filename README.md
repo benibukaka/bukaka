@@ -1,0 +1,2 @@
+# bukaka
+portofolio data analyst
