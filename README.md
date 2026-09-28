@@ -38,7 +38,7 @@
 * **Description :** Projet d'optimisation d'un système de transport public urbain combinant digitalisation et gestion opérationnelle des risques.
 * **Aspects clés :** Billettique QR Code, plan de maintenance préventive de la flotte, formation des conducteurs et constitution de réserves pour aléas financiers.
 * **Outils :** Analyse opérationnelle, Modélisation financière & Réserves de risque.
-* 🔗 [Découvrir la présentation du projet](https://github.com/votre-username/transport-kinshasa) *(Remplacer par votre lien)*
+* 🔗 [Découvrir la présentation du projet](https://github.com/benibukaka/projet-tutore-) 
 
 ### 3. 📊 BK ANALYSE – Solutions Reporting & Dashboarding Commercial
 * **Description :** Conception d'outils de suivi financier, gestion de stocks, marges commerciales et restructuration bilancielle pour des entités locales.
