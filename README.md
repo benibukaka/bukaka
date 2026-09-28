@@ -32,7 +32,7 @@
 * **Description :** Évaluation du risque de crédit pour un portefeuille de PME en utilisant des données alternatives (Alternative Data Scoring).
 * **Méthodologie :** Estimation de la Probabilité de Défaut (PD), calcul des Pertes Attendues (Expected Loss) et analyse des distributions de risques extrêmes sous RStudio.
 * **Outils :** RStudio, Économétrie appliquée, Financial Risk Modeling.
-* 🔗 [Consulter le projet / Code source](https://github.com/votre-username/credit-risk-pme) *(Remplacer par votre lien)*
+* 🔗 [Consulter le projet / Code source](https://github.com/benibukaka/credit_risk-Pme) 
 
 ### 2. 🚌 Modernisation & Gestion des Risques du Transport Urbain (Kinshasa)
 * **Description :** Projet d'optimisation d'un système de transport public urbain combinant digitalisation et gestion opérationnelle des risques.
